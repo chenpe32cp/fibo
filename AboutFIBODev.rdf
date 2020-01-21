@@ -38,7 +38,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/IND/MetadataIND/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/InformationExt/InfoCore/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/LOAN/LoanTypes/CommercialLoans/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/PlacesExt/AddressSites/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/LOAN/LoanTypes/ConstructionLoans/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/BE/LegalEntities/LEIEntities/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/IND/Indicators/Indicators/"/>
@@ -50,7 +49,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/MetadataFBC/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/BE/LegalEntities/MetadataBELegalEntities/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AgreementsExt/ContractElements/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AccountingExt/AccountsMain/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/AllFBC-EuropeAndNorthAmerica/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/MetadataDER/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Securities/Pools/"/>
@@ -106,11 +104,9 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/AllDER/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/Arrangements/Ratings/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/InternationalRegistriesAndAuthorities/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/PlacesExt/MetadataFNDPlacesExt/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/AllFBC-NorthAmerica/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/NorthAmericanEntities/USRegulatoryAgencies/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/TransactionsExt/QuantifiedResources/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AccountingExt/BalanceSheetBalances/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/DebtAndEquities/CreditRatings/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/Places/Addresses/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/LOAN/LoanTypes/CreditProducts/"/>
@@ -119,7 +115,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/DatesAndTimes/MetadataFNDDatesAndTimes/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/Places/MetadataFNDPlaces/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/IND/Indicators/MetadataINDIndicators/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AccountingExt/AssetExtensions/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/LOAN/LoanTypes/MetadataLOANLoanTypes/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/CommoditiesDerivatives/CommodityOptions/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/ArrangementsExt/MetadataFNDArrangementsExt/"/>
@@ -132,7 +127,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Debt/AssetBackedSecurities/PoolBackedSecurities/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/BE/OwnershipAndControl/Executives/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/FunctionalEntities/NorthAmericanEntities/USFinancialServicesEntities/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/PlacesExt/Geophysical/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/DerivativesContracts/ContractsForDifference/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/TransactionsExt/TransactionEvents/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/MD/TemporalCore/TemporalConcepts/"/>
@@ -153,7 +147,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/MD/TemporalCore/InstrumentTemporalTerms/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/DatesAndTimes/BusinessDates/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Debt/AssetBackedSecurities/CDOs/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/PlacesExt/RealEstate/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/AllSEC-ReferenceIndividuals/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/CommoditiesDerivatives/CommoditySpots/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Securities/Baskets/"/>
@@ -168,7 +161,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/OwnershipAndControl/MetadataFNDOwnershipAndControl/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/BE/OwnershipAndControl/CorporateControl/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/OwnershipAndControl/Control/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AccountingExt/MetadataFNDAccountingExt/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/IND/InterestRates/CommonInterestRates/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Debt/AssetBackedSecurities/CLOs/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/TransactionsExt/SecuritiesTransactions/"/>
@@ -205,7 +197,6 @@
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/BE/Partnerships/Partnerships/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/SEC/Debt/Bonds/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AllFND/"/>
-    <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FND/AccountingExt/Taxation/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/CreditDerivatives/CreditDefaultSwaps/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/FBC/FinancialInstruments/MetadataFBCFinancialInstruments/"/>
     <owl:imports rdf:resource="https://spec.edmcouncil.org/fibo/ontology/DER/AssetDerivatives/BondReturnSwaps/"/>
